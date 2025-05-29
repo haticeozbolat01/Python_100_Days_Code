@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03506c1-aed5-4a52-a29e-12d7042ebdd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_100_Days_Code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Band Name Generator Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Giriş" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tip calculator Project.py" afterDir="false" />
+    <list default="true" id="a03506c1-aed5-4a52-a29e-12d7042ebdd0" name="Changes" comment="Code Python Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Band Name Generator Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Band Name Generator Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Giriş" beforeDir="false" afterPath="$PROJECT_DIR$/Giriş" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "haticeozbolat01"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="41664a5c-dcd3-4d3d-942b-3995bf03e201" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/haticeozbolat01/Python_100_Days_Code.git",
+    "accountId": "41664a5c-dcd3-4d3d-942b-3995bf03e201"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -43,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Band Name Generator Project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -64,6 +72,23 @@
       <option name="presentableId" value="Default" />
       <updated>1748513283991</updated>
     </task>
+    <task id="LOCAL-00001" summary="Code Python Project">
+      <option name="closed" value="true" />
+      <created>1748515486206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748515486206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code Python Project">
+      <option name="closed" value="true" />
+      <created>1748515605031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748515605031</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code Python Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Python Project" />
   </component>
 </project>
